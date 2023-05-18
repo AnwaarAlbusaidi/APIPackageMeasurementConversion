@@ -36,7 +36,7 @@ Before running the API, ensure that you have the following prerequisites install
 To run the API using Docker Compose, follow these steps using cmd:
 1. Clone the repository to your local machine. 
    ```
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/AnwaarAlbusaidi/APIPackageMeasurementConversion.git
    ```
 2. Navigate to the project directory.
    ```
