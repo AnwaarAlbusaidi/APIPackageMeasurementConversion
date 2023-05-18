@@ -7,6 +7,9 @@ import org.springframework.stereotype.Service;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * A service class that converts a string to an array of integers.
+ */
 @Service
 public class ConvertingService {
     private static final Logger logger = LoggerFactory.getLogger(MeasurementService.class);
